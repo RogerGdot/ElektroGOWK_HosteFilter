@@ -1,1 +1,5 @@
-||typingclub.com^
+# Host Filter File of ElektroGOWK
+
+127.0.0.1  typingclub.com
+127.0.0.1  toneboosters.com
+
