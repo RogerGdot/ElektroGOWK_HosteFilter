@@ -1,7 +1,7 @@
 # Host Filter File of ElektroG
 
-typingclub.com
-toneboosters.com
-*.toneboosters.com
+127.0.0.1 typingclub.com
+127.0.0.1 toneboosters.com
+127.0.0.1 *.toneboosters.com
 
 
