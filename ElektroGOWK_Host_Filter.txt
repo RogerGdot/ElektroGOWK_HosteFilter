@@ -1,5 +1,5 @@
-# Host Filter File of ElektroG
+# Host Filter File of ElektroGOWK
 
-127.0.0.1 typingclub.com
-127.0.0.1 toneboosters.com
-127.0.0.1 *.toneboosters.com
+||typingclub.com
+||toneboosters.com
+||n-tv.de
