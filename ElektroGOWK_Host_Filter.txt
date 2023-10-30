@@ -1,5 +1,3 @@
 # Host Filter File of ElektroGOWK
 
-||typingclub.com
 ||toneboosters.com
-||n-tv.de
